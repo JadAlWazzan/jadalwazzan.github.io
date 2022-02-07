@@ -48,5 +48,10 @@ export default [
 		skillName: "VS Code",
 		color: "6",
 	    percentage: "70"
+	},
+    {
+		skillName: "Ruby",
+		color: "1",
+	    percentage: "60"
 	}
 ];
