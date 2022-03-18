@@ -49,9 +49,9 @@ export default [
 		color: "6",
 	    percentage: "70"
 	},
-    {
+	{
 		skillName: "Ruby",
 		color: "1",
-	    percentage: "60"
+	    percentage: "40"
 	}
 ];
