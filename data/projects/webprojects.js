@@ -1,7 +1,7 @@
 export default [
 	{
 		projectName: "Authenticating, Fetching & Manipulating Data from an API",
-		image: "images/Api-Challenge2.png",
+		image: "images/Api-challenge2.png",
 		summary:
 			"Developed a Web application to authenticate, GET & POST a list of transactions fetched from API. Filtere date as needed, and hosted it on a server.",
 		preview: "https://github.com/JadAlWazzan/APIchallenge",
