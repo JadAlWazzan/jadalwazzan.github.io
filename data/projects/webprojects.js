@@ -9,7 +9,7 @@ export default [
 	},
 	{
 		projectName: "Web Portfolio",
-		image: "images/web-portfolio.png",
+		image: "images/Web-portfolio.png",
 		summary:
 			"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
 		preview: "https://github.com/JadAlWazzan/jadalwazzan.github.io",
