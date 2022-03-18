@@ -1,4 +1,4 @@
-// import { default as webProjects } from '../../data/projects/webprojects.js';
+import { default as webProjects } from '../../data/projects/webprojects.js';
 // import { default as softwareProjects } from '../../data/projects/softwareprojects.js';
 // import { default as androidProjects } from '../../data/projects/androidprojects.js';
 // import { default as freelanceProjects } from '../../data/projects/freelanceprojects.js';
@@ -62,7 +62,7 @@ function populateHTML(items, id) {
     }
 }
 
-// populateHTML(webProjects, 'web-projects');
+populateHTML(webProjects, 'web-projects');
 // populateHTML(softwareProjects, 'software-projects');
 // populateHTML(androidProjects, 'android-projects');
 // populateHTML(freelanceProjects, 'freelance-projects');
