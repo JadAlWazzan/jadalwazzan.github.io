@@ -2,22 +2,22 @@ export default [
 	{
 		skillName: "JavaScript",
 		color: "1",
-	    percentage: "70"
+	    percentage: "50"
     },
     {
 		skillName: "Angular, Reactjs",
 		color: "6",
-	    percentage: "20"
+	    percentage: "10"
 	},
     {
-		skillName: "Nodejs, MongoDB",
+		skillName: "Node.js, MongoDB",
 		color: "2",
-	    percentage: "15"
+	    percentage: "10"
 	},
     {
 		skillName: "SQL, R, SpreedSheets",
 		color: "3",
-	    percentage: "80"
+	    percentage: "75"
 	},
 	{
 		skillName: "Data Aggregation, Data Analytics, Data Ethics",
@@ -52,6 +52,6 @@ export default [
 	{
 		skillName: "Ruby",
 		color: "1",
-	    percentage: "40"
+	    percentage: "20"
 	}
 ];
